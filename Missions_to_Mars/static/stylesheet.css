@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+th {
+text-align: left;
+}
+
+tr:nth-child(even) {background-color: rgb(252, 222, 197);}
+tr:hover {background-color: rgb(252, 175, 109);}
+
+.btn {
+    background-color: peachpuff;
+    color: black;
+}
+
+.jumbotron {
+    background-color: rgb(252, 241, 224);
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 16pt;
+}
+
+.img {
+    padding-bottom: 10mm;
+}
