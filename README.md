@@ -6,4 +6,4 @@
 * Create a website that displays the collected information.
 * Create a script that executes on the click of a button that refreshes the information.
 ---
-![website screenshot](/Mission_to_Mars/Screenshot_top_part_website.png)
+![website screenshot](/Missions_to_Mars/Screenshot_top_part_website.png)
